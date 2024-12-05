@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={akarsh1_shekhar}&animated=true" alt="LeetCode Badges"/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&theme={your-theme}" alt="LeetCode Badges"/>
