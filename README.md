@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## My LeetCode Achievements
 
-![LeetCode 100 Days Badge](https://raw.githubusercontent.com/akarsh1_shekhar/my-repo/main/assets/100days_badge.png)
+![LeetCode 100 Days Badge](https://raw.githubusercontent.com/akarsh1_shekhar/my-repo/main/assets/50days_badge.png)
 
 - Username: [akarsh1_shekhar](https://leetcode.com/akarsh1_shekhar/)
 - Solved Problems: 150+
