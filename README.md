@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 # Welcome to My Profile 👋
 
 ## My LeetCode Achievements
+# My LeetCode Progress
 
-![LeetCode 100 Days Badge](https://raw.githubusercontent.com/akarsh1_shekhar/my-repo/main/assets/50days_badge.png)
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=akarsh1_shekhar)
 
-- Username: [akarsh1_shekhar](https://leetcode.com/akarsh1_shekhar/)
-- Solved Problems: 150+
-- Streak: 100 Days of Code 🔥
+
 
 
