@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to My Profile 👋
+
+## My LeetCode Achievements
+
 ![LeetCode 100 Days Badge](https://raw.githubusercontent.com/akarsh1_shekhar/my-repo/main/assets/100days_badge.png)
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/{akarsh1_shekhar}?theme={dark}&bgColor={hex_val})
+
+- Username: [akarsh1_shekhar](https://leetcode.com/akarsh1_shekhar/)
+- Solved Problems: 150+
+- Streak: 100 Days of Code 🔥
+
 
