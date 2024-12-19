@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![LeetCode 100 Days Badge](https://raw.githubusercontent.com/akarsh1_shekhar/my-repo/main/assets/100days_badge.png)
 ![Enter some description](https://leetcode-badge-sage.vercel.app/badge/{akarsh1_shekhar}?theme={dark}&bgColor={hex_val})
 
